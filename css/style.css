@@ -34,6 +34,7 @@ footer {
 
 .contingut-principal {
     margin: 10px;
+    min-height: 80vh;
 }
 
 /* Estils Pàgina Sobre Mi */
@@ -98,4 +99,13 @@ td {
 
 .tutoria {
     background-color: blueviolet;
+}
+
+form label {
+    display: block;
+}
+form input,
+form textarea{
+    display: block;
+    margin-bottom: 10px;
 }
