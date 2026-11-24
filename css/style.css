@@ -52,6 +52,12 @@ footer {
     width: 100px;
 }
 
+.img-terciaria {
+    border-radius: 100px;
+    border: 5px solid white;
+    width: 50px;
+}
+
 th {
     border: 2px solid black;
 }
